@@ -7,3 +7,7 @@ points they have. You have to install nodeJS and run it in the windows powershel
 Part of Udemy Learn Node.js from Scratch Course
 
 https://www.udemy.com/certificate/UC-MR433P3Y/
+
+Part of Udemy Getting Started with Node for Beginners
+
+https://www.udemy.com/certificate/UC-Z4800KKG/
