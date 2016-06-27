@@ -1,10 +1,10 @@
 //require fs library
 var filesys = require("fs");
 //get name of file to open
-var file = process.argv.slice(2)[0];
+var fileName = process.argv.slice(2)[0];
 
 //readFile reads list.txt into a buffer which is a byte array
-filesys.readFile(file, function(err, data) {
+filesys.readFile(fileName, function(err, data) {
 	//if there is an error, throw it and end application
 	if(err) throw err;
 	
