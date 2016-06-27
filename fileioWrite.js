@@ -2,6 +2,7 @@
 var filesys = require("fs");
 //get name of file to open
 var fileName = process.argv.slice(2)[0];
+//get input to write to file
 var fileInput = process.argv.slice(2)[1];
 
 //Writes a file called output.txt
