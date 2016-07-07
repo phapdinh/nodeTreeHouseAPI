@@ -8,10 +8,14 @@ In order to run app.js, put in command line: node app.js [name] [name] ...
 
 In order to run fileio.js, put in command line: node fileio.js [filename]
 
-Part of Udemy Learn Node.js from Scratch Course
+Part of Udemy's Learn Node.js from Scratch Course
 
 https://www.udemy.com/certificate/UC-MR433P3Y/
 
-Part of Udemy Getting Started with Node for Beginners
+Part of Udemy's Getting Started with Node for Beginners
 
 https://www.udemy.com/certificate/UC-Z4800KKG/
+
+Part of Udemy's Rapid Node.js Training
+
+https://www.udemy.com/certificate/UC-O38T8FYP/
