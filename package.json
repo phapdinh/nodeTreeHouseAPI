@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "make api calls to Tree House API",
+  "main": "app.js",
+  "dependencies": {
+    "follow-redirects": "0.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phapdinh/nodeTreeHouseAPI.git"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phapdinh/nodeTreeHouseAPI/issues"
+  },
+  "homepage": "https://github.com/phapdinh/nodeTreeHouseAPI#readme"
+}
