@@ -14,8 +14,9 @@ function get(username) {
 	var request = http.get('http://teamtreehouse.com/' + username + ".json", function(response) {
 		console.log(response.statusCode);
 		var body = "";
-		response.on("data",function(chunk) {
-			body += chunk;
+		response.on("data",function(data) {
+			//concate to convert from buffer to string
+			body += data;
 		});
 		
 		response.on("end",function() {
