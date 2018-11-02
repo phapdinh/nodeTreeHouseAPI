@@ -6,9 +6,11 @@
   "dependencies": {
     "follow-redirects": "0.0.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^5.8.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint ."
   },
   "repository": {
     "type": "git",
